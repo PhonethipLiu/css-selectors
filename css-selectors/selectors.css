@@ -1,5 +1,5 @@
 header {
-    border: 1px gray;
+    border: 1px solid gray;
 }
 
 nav ul li {
@@ -12,11 +12,11 @@ nav ul li {
     color: gold;
 }
 
-span.disabled {
+.disabled {
     color: grey;
 }
 
-a.disabled {
+a .disabled {
     color: purple;
 }
 
