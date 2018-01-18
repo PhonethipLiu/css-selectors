@@ -1,0 +1,44 @@
+header {
+    border: 1px gray;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 .5em 0 .5em;
+}
+.promo {
+    font-style: strong;
+    color: gold;
+}
+
+span.disabled {
+    color: grey;
+}
+
+a.disabled {
+    color: purple;
+}
+
+.active {
+    color: yellow;
+}
+
+footer span input {
+height: 25px;
+}
+
+ .grandparent h4,
+ .parent h4 {
+    border: 1px dotted lightgrey;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
